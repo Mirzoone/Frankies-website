@@ -68,7 +68,7 @@ export const menuItems: MenuItem[] = [
   { id:'loaded-nachos', category:'ostala-jela', name:'El Grito Loaded Nachos',
     descriptionEn:'Pico de gallo, cheese sauce, El Grito chips, sour cream',
     descriptionBs:'Pico de gallo, cheese sos, El Grito chips, kiselo vrhnje',
-    price:17 },
+    price:12 },
   { id:'egg-rolls', category:'ostala-jela', name:'Birria Egg Rolls',
     descriptionEn:'3 pieces, birria, mozzarella',
     descriptionBs:'Porcija od 3 komada, birria, sir mozzarella',
